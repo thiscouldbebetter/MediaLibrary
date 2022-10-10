@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11in"
+   height="8.5in"
+   viewBox="0 0 279.4 215.9"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="CircuitSchematicSymbols.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.61009196"
+     inkscape:cx="749.88695"
+     inkscape:cy="240.12773"
+     inkscape:window-width="1350"
+     inkscape:window-height="964"
+     inkscape:window-x="139"
+     inkscape:window-y="29"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1360"
+       empspacing="4"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="GateAnd"
+       inkscape:label="#GateAnd"
+       transform="matrix(0.5,0,0,0.5,64.29375,28.575)"
+       style="stroke-width:1.05833;stroke-dasharray:none">
+      <path
+         id="GateAnd_Output"
+         style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="m 66.675,27.516667 h 7.408333"
+         sodipodi:nodetypes="cc"
+         inkscape:label="#GateAnd_Output" />
+      <path
+         id="GateAnd_Body"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="m 27.516667,10.583333 c 40.216666,0 39.158333,16.933334 39.158333,16.933334 0,0 1.058333,16.933333 -39.158333,16.933333 z"
+         sodipodi:nodetypes="cccc"
+         inkscape:label="#GateAnd_Body" />
+      <path
+         id="GateAnd_Input1"
+         style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="m 19.579166,19.05 h 8.466667"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect3913-8-1"
+         style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="m 19.579166,35.983333 h 8.466667"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       id="Resistor"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+       d="M 12.699996,16.933333 H 23.28333 L 25.399997,8.4666633 29.63333,25.399993 33.866663,8.4666633 38.099997,25.399993 42.33333,8.4666633 46.566663,25.399993 48.68333,16.933333 h 10.583333"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:label="#Resistor" />
+    <path
+       id="Inductor"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+       d="m 143.93334,16.93334 h 10.58333 c 0.0938,-1.58448 1.05833,-8.4666697 3.175,-8.4666697 3.175,0 7.40834,16.9333297 3.175,16.9333297 -4.23334,0 0,-16.9333297 4.23334,-16.9333297 4.23333,0 8.46666,16.9333297 4.23333,16.9333297 -4.23333,0 -0.52917,-16.9333297 4.23333,-16.9333297 4.7625,0 8.46668,16.9333297 4.23334,16.9333297 -4.23334,0 0,-16.9333297 2.11666,-16.9333297 2.11666,0 4.23334,8.4666697 4.23334,8.4666697 h 6.35"
+       sodipodi:nodetypes="ccczzzzzccc"
+       inkscape:label="#Inductor" />
+    <g
+       id="Capacitor"
+       inkscape:label="#Capacitor"
+       transform="translate(-8.46667,-93.133337)">
+      <path
+         id="Capacitor_Input"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         d="m 71.966664,110.06668 12.700006,-1e-5"
+         sodipodi:nodetypes="cc"
+         inkscape:label="Capacitor_Input" />
+      <path
+         id="rect4909-8"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         d="m 84.66667,101.6 v 16.93334"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect4909-1"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         d="m 101.6,110.06667 -12.70001,-1e-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect4909-8-3"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         d="m 88.9,101.59999 v 16.93333"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="Capacitor-3"
+       inkscape:label="#Capacitor"
+       transform="matrix(-1,0,0,1,300.56667,-93.133347)">
+      <path
+         id="Capacitor_Input-7"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         d="m 71.966664,110.06668 12.700006,-1e-5"
+         sodipodi:nodetypes="cc"
+         inkscape:label="Capacitor_Input" />
+      <path
+         id="rect4909-8-36"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         d="m 84.666667,105.83335 v 8.46666"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect4909-1-6"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         d="m 101.6,110.06667 -12.70001,-1e-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect4909-8-3-8"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         d="m 88.9,97.36668 v 25.4"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="Capacitor_Input-7-9"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         d="m 91.01666,100.80626 h 4.233333"
+         sodipodi:nodetypes="cc"
+         inkscape:label="Capacitor_Input" />
+      <path
+         id="rect4909-8-36-8"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         d="m 93.133327,98.689597 v 4.233333"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="Ground"
+       inkscape:label="#Ground"
+       transform="matrix(0,-1.1428571,-0.89999999,0,323.42667,147.86428)">
+      <path
+         id="rect4909-8-36-0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="m 82.549993,103.71669 v 12.7 m -6.35,-8.46667 v 4.23333"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="rect4909-1-6-8"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         d="m 101.6,110.06667 -12.70001,-1e-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect4909-8-3-8-2"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="M 88.899993,99.483353 V 120.65002"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="GateOr"
+       transform="matrix(0.5,0,0,0.5,88.635415,12.7)"
+       inkscape:label="#GateOr"
+       style="stroke-width:1.05833;stroke-dasharray:none">
+      <path
+         id="GateOr_Output"
+         style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="m 88.9,59.266667 8.995837,0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="GateOr_Output" />
+      <path
+         id="GateOr_Input1"
+         style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="m 42.333336,50.8 h 12.7"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="GateOr_Input2"
+         style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="m 42.333336,67.733333 h 12.7"
+         sodipodi:nodetypes="cc"
+         inkscape:label="#GateOr_Input2" />
+      <path
+         id="rect111-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="m 46.566667,42.333333 c 38.1,0 42.333333,16.933334 42.333333,16.933334 0,0 -4.233333,16.933333 -42.333333,16.933333 8.466666,0 8.466666,-33.866667 0,-33.866667 z"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="Diode"
+       inkscape:label="#Diode"
+       transform="translate(-8.46667,-93.133337)">
+      <path
+         d="m 114.3,110.06667 -8.46667,-1e-5"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         id="path5124"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 143.93334,110.06667 -12.70001,0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         id="Diode_Output"
+         sodipodi:nodetypes="cc"
+         inkscape:label="Diode_Output" />
+      <path
+         id="Diode_Body"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         d="m 114.3,101.6 16.93333,8.46667 -16.93333,8.46667 z"
+         sodipodi:nodetypes="cccc"
+         inkscape:label="#Diode_Body" />
+      <path
+         id="rect4909-8-3-4"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="m 131.23333,101.6 v 16.93333"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="SignalHigh"
+       inkscape:label="#SignalHigh"
+       transform="matrix(0,-1,-1,0,368.3,165.1)">
+      <path
+         d="m 114.3,110.06667 -8.46667,-1e-5"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         id="path5124-3"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="SignalHigh_Body"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167"
+         d="m 114.3,101.6 16.93333,8.46667 -16.93333,8.46667 z"
+         sodipodi:nodetypes="cccc"
+         inkscape:label="#SignalHigh_Body" />
+    </g>
+    <g
+       id="GateNot"
+       transform="matrix(0.5,0,0,0.5,132.02708,8.4666701)"
+       inkscape:label="#GateNot"
+       style="stroke-width:1.05833;stroke-dasharray:none">
+      <path
+         id="rect3913-5"
+         style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="m 66.675,67.733333 7.40833,4e-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect111-0"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="M 27.516663,50.800003 61.38333,67.733337 27.516663,84.66667 Z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="GateNot_Input"
+         style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="m 19.049997,67.733337 h 8.466666"
+         sodipodi:nodetypes="cc"
+         inkscape:label="#GateNot_INput" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none;stroke-opacity:1"
+         id="path6010"
+         cx="63.5"
+         cy="67.73333"
+         r="3.175" />
+    </g>
+    <g
+       id="Switch"
+       transform="translate(216.42917,-50.800005)"
+       inkscape:label="#Switch">
+      <path
+         id="rect3913-5-3"
+         style="fill:none;stroke:#000000;stroke-width:0.529167"
+         d="m 49.212498,67.733338 7.40833,4e-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="GateNot_Input-4"
+         style="fill:none;stroke:#000000;stroke-width:0.529167"
+         d="m 19.049997,67.733337 11.641666,3e-6 13.758334,-8.466667"
+         sodipodi:nodetypes="ccc"
+         inkscape:label="#GateNot_INput" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         id="path6010-3"
+         cx="47.624996"
+         cy="67.733337"
+         r="1.5875" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         id="path6010-3-1"
+         cx="30.691664"
+         cy="67.733337"
+         r="1.5875" />
+    </g>
+    <g
+       id="TransistorPnp"
+       inkscape:label="#TransistorPnp"
+       transform="matrix(0.5,0,0,0.5,6.35,12.699998)">
+      <path
+         id="TransistorPnp_Base"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.05833333;stroke-dasharray:none"
+         d="M 12.7,59.26667 H 29.633334"
+         sodipodi:nodetypes="cc"
+         inkscape:label="#TransistorPnp_Base" />
+      <path
+         id="rect4909-8-1"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.05833333;stroke-dasharray:none"
+         d="m 29.633334,46.56667 v 25.4"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.05833333;stroke-dasharray:none"
+         d="M 46.566666,80.43334 V 71.96667 L 29.633334,63.5"
+         id="TransistorPnp_Collector"
+         inkscape:label="#TransistorPnp_Collector" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.05833333;stroke-dasharray:none"
+         d="m 46.566666,38.1 v 8.46667 l -16.933332,8.46667"
+         id="rect4909-1-4" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833333;stroke-dasharray:none;stroke-opacity:1"
+         id="path7169"
+         cx="36.512497"
+         cy="59.266689"
+         r="16.933332" />
+      <path
+         id="TransistorPnp_Arrow"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833333;stroke-dasharray:none"
+         d="m 34.925,47.625 4.233333,7.408333 h -9.525 z"
+         sodipodi:nodetypes="cccc"
+         inkscape:label="TransistorPnp_Arrow" />
+    </g>
+    <g
+       id="TransistorNpn"
+       inkscape:label="#TransistorNpn"
+       transform="matrix(0.5,0,0,0.5,35.983333,12.699998)">
+      <path
+         id="TransistorNpn_Base"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.05833333;stroke-dasharray:none"
+         d="M 12.7,59.26667 H 29.633334"
+         sodipodi:nodetypes="cc"
+         inkscape:label="#TransistorNpn_Base" />
+      <path
+         id="rect4909-8-1-7"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.05833333;stroke-dasharray:none"
+         d="m 29.633334,46.56667 v 25.4"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="M 46.566666,80.43334 V 71.96667 L 29.633334,63.5"
+         id="TransistorNpn_Emitter" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+         d="m 46.566666,38.1 v 8.46667 l -16.933332,8.46667"
+         id="TransistorNpn_Collector" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833333;stroke-dasharray:none;stroke-opacity:1"
+         id="path7169-8"
+         cx="36.512497"
+         cy="59.266689"
+         r="16.933332" />
+      <path
+         id="rect9361-3"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+         d="m 41.804167,64.558334 -4.233333,7.408333 h 9.525 z"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="Diode-5"
+       inkscape:label="#Diode"
+       transform="rotate(90,107.95,99.483332)" />
+  </g>
+</svg>
